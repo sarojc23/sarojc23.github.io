@@ -1,5 +1,41 @@
+# Jekyll specific files
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
+
+# Bundler dependencies
+/vendor
+
+# Ignore all logfiles and tempfiles.
+*.log
+*.tmp
+*.pid
+*.gem
+*.rbc
+*.cache
+
+# Ignore Byebug command history file.
+.byebug_history
+
+# Ignore node_modules (if you use Node.js)
+node_modules
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore environment variable files
+.env
+
+# Ignore IDE and editor files
+*.swp
+*~
+.project
+.idea
+.vscode
+*.code-workspace
+
+# Ignore any additional local settings
+config.yml
+config_local.yml
+
