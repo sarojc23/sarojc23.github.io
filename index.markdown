@@ -1,26 +1,16 @@
 ---
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: Home
+title: "Home"
 ---
 
-## Introduction
+# Saroj Bahadur Chand
 
-As a postdoctoral scholar at the Physics Department of the University of California, Berkeley, I am pioneering research at the cutting edge of quantum sensing techniques. My focus lies in harnessing the unique properties of single atom-scale defects, particularly NV centers, nestled within diamonds. 
+**Postdoctoral Scholar, University of California, Berkeley**  
+Quantum Physicist | NV Center Sensing | Experimental Quantum Science  
 
-### Research Focus
+I develop precision quantum sensing tools using NV centers in diamond. My research bridges quantum control, condensed matter physics, and data-driven experimentation to push the frontiers of imaging, computing, and quantum materials.
 
-- **Quantum Sensing**: Developing techniques to utilize NV centers in diamonds for high-precision sensing.
-- **Optics and Computation**: Integrating experimental and computational methods to study solid-state emitters.
-
-### Academic Background
-
-With a Ph.D. in Physics from the CUNY-Advanced Science Research Center, I honed my skills in integrating optics experiments and computations to study solid-state emitters. My academic journey began with BS and MS degrees in Physics from Tribhuvan University in Nepal, laying the groundwork for my passion for unraveling the mysteries of the quantum world.
-
-### Publications
-
-- [Publication 1](http://example.com)
-- [Publication 2](http://example.com)
+🔭 [See my research](/about)  
 
 ### Contact
 
