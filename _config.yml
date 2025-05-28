@@ -36,7 +36,7 @@ header_pages:
   - index.markdown
   - about.markdown
   - research.markdown
-  - publication.markdown
+  - publications.markdown
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

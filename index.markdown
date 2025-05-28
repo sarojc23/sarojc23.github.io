@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-# Saroj Bahadur Chand
+## Saroj Bahadur Chand
 
 **Postdoctoral Scholar, University of California, Berkeley**
 
