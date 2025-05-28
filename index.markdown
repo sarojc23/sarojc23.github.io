@@ -13,6 +13,3 @@ I develop precision quantum sensing tools using NV centers in diamond. My resear
 ### Contact
 
 Feel free to reach out to me via [email](mailto:schand@berkeley.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/saroj-chand).
-
-![Research Image](path/to/research-image.jpg)
-
