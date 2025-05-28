@@ -19,13 +19,17 @@ This research advances both the **fundamental understanding of quantum matter** 
 
 Through **interdisciplinary collaboration** and **innovation at the interface of physics and engineering**, I strive to push the boundaries of what is measurable, controllable, and ultimately useful in quantum science.
 
-<div align="center">
-  <img src="/assets/exciton_phonon_schematic.png" width="550">
-  <p><em>Figure 1: Schematic of exciton–phonon interactions in monolayer semiconductors</em></p>
-</div>
 
-<div align="center">
-  <img src="/assets/key_multi_nv_image.png" width="500">
-  <p><em>Figure 3: Multiplexed  readout of NV centers </em></p>
-</div>
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
+  <div style="text-align: center;">
+    <img src="/assets/exciton_phonon_schematic.png" width="300">
+    <p><em>Figure 1: Schematic of exciton–phonon interactions in monolayer semiconductors</em></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/key_multi_nv_image.png" width="300">
+    <p><em>Figure 2: Multiplexed readout of NV centers</em></p>
+  </div>
+
+</div>
