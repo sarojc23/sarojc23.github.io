@@ -24,4 +24,8 @@ Through **interdisciplinary collaboration** and **innovation at the interface of
   <p><em>Figure 1: Schematic of exciton–phonon interactions in monolayer semiconductors</em></p>
 </div>
 
+<div align="center">
+  <img src="/assets/key_multi_nv_image.png" width="500">
+  <p><em>Figure 3: Multiplexed  readout of NV centers </em></p>
+</div>
 
