@@ -6,5 +6,22 @@ permalink: /research/
 
 ## Research
 
-My research sits at the dynamic intersection of Condensed Matter Physics (CMP), Optics, and Quantum Science. I am dedicated to pioneering innovative protocols that exploit the spatial and temporal correlations among diverse quantum systems. This pursuit aims to unlock insights into the correlated dynamics within strongly interacting condensed matter systems. Simultaneously, I am driven to explore how these understandings can propel advancements in quantum technologies. By delving into the intricate interplay of quantum phenomena, my work seeks not only to deepen our comprehension of fundamental physics but also to push the boundaries of practical applications. I am particularly interested in bridging the gap between theoretical frameworks and experimental implementations, leveraging state-of-the-art techniques to explore novel quantum phenomena. Through interdisciplinary collaboration and a relentless pursuit of discovery, I aim to contribute to both the theoretical foundations and practical realizations of quantum technologies, ushering in a new era of scientific innovation and technological advancement.
+My research lies at the intersection of **Condensed Matter Physics**, **Quantum Optics**, and **Quantum Information Science**. I develop and apply cutting-edge experimental techniques to probe and control **strongly correlated quantum systems**, with a particular focus on **nitrogen-vacancy (NV) centers in diamond** and **two-dimensional semiconductors**.
+
+I am especially interested in **leveraging spatial and temporal correlations** among individual quantum defects to uncover emergent dynamics in complex many-body systems. By bridging theoretical models with high-precision experiments, my work aims to explore and manipulate phenomena such as:
+
+- Quantum coherence and decoherence
+- Spin–phonon interactions
+- Exciton transport in 2D materials
+- Collective spin dynamics and metrology
+
+This research advances both the **fundamental understanding of quantum matter** and the development of **practical quantum technologies**, including scalable sensing, imaging, and hybrid quantum systems.
+
+Through **interdisciplinary collaboration** and **innovation at the interface of physics and engineering**, I strive to push the boundaries of what is measurable, controllable, and ultimately useful in quantum science.
+
+<div align="center">
+  <img src="/assets/exciton_phonon_schematic.png" width="550">
+  <p><em>Figure 1: Schematic of exciton–phonon interactions in monolayer semiconductors</em></p>
+</div>
+
 
