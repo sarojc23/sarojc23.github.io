@@ -5,12 +5,10 @@ title: "Home"
 
 # Saroj Bahadur Chand
 
-**Postdoctoral Scholar, University of California, Berkeley**  
-Quantum Physicist | NV Center Sensing | Experimental Quantum Science  
+**Postdoctoral Scholar, University of California, Berkeley**
 
 I develop precision quantum sensing tools using NV centers in diamond. My research bridges quantum control, condensed matter physics, and data-driven experimentation to push the frontiers of imaging, computing, and quantum materials.
 
-🔭 [See my research](/about)  
 
 ### Contact
 
