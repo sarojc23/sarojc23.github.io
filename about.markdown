@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: "About"
+title: "About"
 ---
 
 I’m a physicist and postdoctoral researcher at UC Berkeley, where I work on quantum sensing using NV centers in diamond. My research lies at the intersection of quantum information science, condensed matter systems, and advanced imaging.
