@@ -12,8 +12,8 @@ I am especially interested in **leveraging spatial and temporal correlations** a
 
 - Quantum coherence and decoherence
 - Spin–phonon interactions
-- Exciton transport in 2D materials
 - Collective spin dynamics and metrology
+- Quasiparticles (exciton, phonon, polaron, polaritons, etc.) in 2D materials
 
 This research advances both the **fundamental understanding of quantum matter** and the development of **practical quantum technologies**, including scalable sensing, imaging, and hybrid quantum systems.
 
