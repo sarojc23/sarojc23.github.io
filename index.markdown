@@ -3,7 +3,11 @@ layout: home
 title: "Home"
 ---
 
-**Postdoctoral Scholar, University of California, Berkeley**
+<td align="center">
+    <img src="/assets/sarojbchand.jpg" width="300" alt="Saroj B Chand"><br>
+    <strong>Saroj B Chand</strong><br>
+    <em>Postdoctoral Scholar, University of California, Berkeley</em>
+</td>
 
 I develop precision quantum sensing tools using NV centers in diamond to explore complex many-body systems and enhance measurement technologies. My research bridges quantum control, condensed matter physics, and computational analysis to push the frontiers of imaging, computing, and materials science.
 
