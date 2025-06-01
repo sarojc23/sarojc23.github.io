@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## Selected Publications
+### Selected Publications
 
 **1.** Matthew Cambria*, Saroj Chand*, Shimon Kolkowitz
 **"Scalable Parallel Measurement and Control of Individual Nitrogen-vacancy Centers"**
