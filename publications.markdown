@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## Selected Publications
+### Selected Publications
 
 **1.** Matthew Cambria*, Saroj Chand*, Shimon Kolkowitz
 **"Scalable Parallel Measurement and Control of Individual Nitrogen-vacancy Centers"**
@@ -45,6 +45,7 @@ permalink: /publications/
 **"Visualization of Dark Excitons in Semiconductor Monolayers for High-Sensitivity Strain Sensing"**
 *Nano Letters* **22**, 7, 3087–3094 (2022)
 [View Paper](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c00436)
+
 
 ---
 

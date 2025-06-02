@@ -5,4 +5,4 @@ date: 2023-11-01
 categories: updates
 ---
 
-On November 1, 2024, I started my postdoctoral position at the Physics Department of the University of California, Berkeley.
+On November 1, 2024, I started my postdoctoral position at the Physics Department of the University of California, Berkeley. I will be working on quantum experiental science focused on Nitrogen-Vacany (nv) centers.
