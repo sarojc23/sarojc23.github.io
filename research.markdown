@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Research
+# title: Research
+<h4 style="font-size: 1.25rem; margin-top: 1rem;">Research</h4>
 permalink: /research/
 ---
 
@@ -12,7 +13,7 @@ I am especially interested in **leveraging spatial and temporal correlations** a
 
 - Quantum coherence and decoherence
 - Spin–phonon interactions
-- Exciton transport in 2D materials
+- Exciton dynamics in 2D materials
 - Collective spin dynamics and metrology
 
 This research advances both the **fundamental understanding of quantum matter** and the development of **practical quantum technologies**, including scalable sensing, imaging, and hybrid quantum systems.
