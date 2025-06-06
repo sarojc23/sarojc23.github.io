@@ -16,11 +16,11 @@ I'm driven by a vision of building scalable quantum platforms that connect exper
 ---
 
 ## Contact
-📫 Email: schand@berkeley.edu
+Email: schand@berkeley.edu
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sarojc23/)
+[LinkedIn](https://www.linkedin.com/in/sarojc23/)
 
-🐙 [GitHub](https://github.com/sarojc23)
+[GitHub](https://github.com/sarojc23)
 
 ---
 
