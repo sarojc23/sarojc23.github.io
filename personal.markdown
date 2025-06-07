@@ -8,7 +8,7 @@ Welcome to the corner of my website where I share what drives me *outside the la
 
 ---
 
-## Beyond Research
+### Beyond Research
 
 Outside the lab, I enjoy everything from cerebral games like chess to physical sports and gym workouts. I often find inspiration in exploring ideas at the intersection of science and entrepreneurship. I’m also fascinated by the philosophical and political dimensions of human experience and science — how discoveries shape societies, and how societal forces in turn influence scientific progress.
 

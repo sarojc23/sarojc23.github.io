@@ -5,7 +5,7 @@ title: "Home"
 
 <td align="center">
     <img src="/assets/sarojbchand.jpg" width="300" alt="Saroj B Chand"><br>
-    <strong>Saroj B Chand</strong><br>, <em>Postdoctoral Scholar, University of California, Berkeley</em>
+    <strong>Saroj B Chand</strong><br>, Postdoctoral Scholar, University of California, Berkeley
 </td>
 
 
