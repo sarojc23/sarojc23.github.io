@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Started in Postdoc at UC Berkeley"
-date: 2023-11-01
+title: "Started Postdoc at UC Berkeley"
+date: 2024-11-01
 categories: updates
 ---
 
-On November 1, 2024, I started my postdoctoral position at the Physics Department of the University of California, Berkeley. I will be working on quantum experiental science focused on Nitrogen-Vacany (nv) centers.
+On November 1, 2024, I started my postdoctoral position at the Physics Department of the University of California, Berkeley. I will be working on quantum experimental science focused on Nitrogen-Vacancy (NV) centers.
