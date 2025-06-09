@@ -1,11 +1,8 @@
 ---
 layout: page
-# title: Research
-<h4 style="font-size: 1.25rem; margin-top: 1rem;">Research</h4>
+title: Research
 permalink: /research/
 ---
-
-## Research
 
 My research lies at the intersection of **Condensed Matter Physics**, **Quantum Optics**, and **Quantum Information Science**. I develop and apply cutting-edge experimental techniques to probe and control **strongly correlated quantum systems**, with a particular focus on **nitrogen-vacancy (NV) centers in diamond** and **two-dimensional semiconductors**.
 
