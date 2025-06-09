@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Welcome to my Jou!"
-date:   2024-06-22 23:37:02 -0700
-categories: jekyll update
+title: "My Journey into Quantum Sensing"
+date: 2024-06-01
 ---
 
 

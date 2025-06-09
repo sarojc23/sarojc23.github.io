@@ -37,9 +37,9 @@ Thoughts on:
 ---
 
 ### Personal Blog
+- [Blog Post 1: My Journey into Quantum Sensing →](/_blogs/my-)
 
-[Blog Post 1: My Journey into Quantum Sensing →](/posts/my-journey-quantum)
-[Blog Post 2: Science, Startups, and  Song →](/posts/)
+- [Blog Post 2: Science, Startups, and  Song →](/_posts/)
 
 ---
 
