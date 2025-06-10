@@ -33,6 +33,7 @@ linkedin_username: saroj-chand
 theme: minima
 plugins:
   - jekyll-feed
+# plugins: []
 
 header_pages:
   - index.md
@@ -41,11 +42,10 @@ header_pages:
   - publications.md
   - personal.md
 
-
 collections:
   blogs:
     output: true
-    permalink: /blog/:name/
+    permalink: /_blogs/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

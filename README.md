@@ -1,6 +1,6 @@
 # sarojc23.github.io
 
-This is the personal academic website of Dr. Saroj B. Chand, hosted via GitHub Pages and Jekyll.
+This is the personal academic website of Saroj B. Chand, hosted via GitHub Pages and Jekyll.
 
 ## Structure
 - `index.markdown`: Home page
