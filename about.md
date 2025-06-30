@@ -3,21 +3,27 @@ layout: page
 title: "About"
 ---
 
-I’m a Nepali quantum physicist and postdoctoral researcher at UC Berkeley, working at the intersection of quantum sensing, condensed matter physics, and advanced imaging techniques. My currernt research focuses on using nitrogen-vacancy (NV) centers in diamond to develop scalable, high-resolution quantum sensing platforms.
+I’m a Nepali quantum physicist and postdoctoral researcher at **UC Berkeley**, working at the intersection of **quantum sensing**, **condensed matter physics**, and **advanced optical imaging techniques**. My current research focuses on utilizing **nitrogen-vacancy (NV) centers in diamond** to develop scalable, high-resolution platforms for **parallel quantum sensing and control**.
 
-I completed my Ph.D. in Physics at Advanced Science Research Center (ASRC) of the Graduate Center of the City University of New York (CUNY), where I explored exciton-phonon interactions and quantum control in 2D materials. Prior to that, I earned my B.Sc and M.Sc. in Physics from Tribhuvan University in Kathmandu, Nepal.
+I earned my Ph.D. in Physics from the **Advanced Science Research Center (ASRC)** at the **City University of New York (CUNY) Graduate Center**, where I investigated **exciton–phonon interactions** and **quantum control in two-dimensional (2D) materials**. Before that, I completed my B.Sc. and M.Sc. in Physics at **Tribhuvan University** in Kathmandu, Nepal.
 
-Born and raised in the mountainous district of Baitadi, Nepal, I’m passionate about pushing the boundaries of quantum technology while fostering global scientific collaboration.
+Originally from the mountainous district of **Baitadi, Nepal**, I’m deeply passionate about advancing the frontiers of quantum technology while fostering **international collaboration and scientific exchange**.
+
+---
 
 ### Research Areas
-- Quantum Sensing with NV Centers
+- Quantum Sensing with NV Centers in Diamond
 - Optically Detected Magnetic Resonance (ODMR)
-- Spin Dynamics & Pulse Control (XY8, Ramsey, Tomography)
-- Quantum Materials (TMDs, Excitons, Polarons, Phonons)
-- Data-Driven Scientific Discovery
+- Spin Dynamics and Control (Ramsey, XY8, Quantum Tomography)
+- Quantum Materials: Excitons, Polarons, Phonons, and TMDs
+- Data-Driven Science & Experimental Correlation Analysis
+
+---
 
 ### Technical Skills
-- Experimental Quantum Optics & Imaging
-- Python, MATLAB, High-Performance Computing (HPC), VASP
-- Spatial Light Modulator (SLM) & Acousto-Optic Deflector (AOD) Integration
-- Drift Tracking, Spin Control Sequences, and Signal Analysis
+- Advanced Quantum Optics & Imaging
+- Python, MATLAB, HPC (High-Performance Computing), VASP
+- Spatial Light Modulators (SLMs), Acousto-Optic Deflectors (AODs)
+- Multiplexed NV Readout, Drift Tracking & Signal Analysis
+- Real-time Control of Quantum Systems using Pulse Sequences
+
