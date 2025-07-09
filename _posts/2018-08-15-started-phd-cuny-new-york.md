@@ -11,5 +11,11 @@ After completing my first year of coursework and research rotations, I’m thril
 
 The lab is at the forefront of pioneering research in light–matter interactions at the nanoscale. We aim to harness the extraordinary properties of 2D materials to develop next-generation technologies. I'm excited to contribute to this journey and deepen our understanding of quantum materials.
 
-![CUNY Graduate Center, New York](/assets/images/cuny_grad_center.jpg)
-<em>Figure: Standing in front of the CUNY Graduate Center, NYC</em>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="/assets/sarojc_gc_cuny.jpg" width="300" alt="Saroj B Chand"><br>
+      <strong>Standing in front of the CUNY Graduate Center, NYC</strong><br>
+    </td>
+  </tr>
+</table>

@@ -13,5 +13,5 @@ This work lies at the intersection of **quantum optics**, **condensed matter phy
 
 I'm excited to be part of such a vibrant and collaborative research environment here at Berkeley, and look forward to the discoveries ahead.
 
-![My new lab at UC Berkeley](/assets/images/berkeley_lab.jpg)
-<em>Figure: My new lab setup at UC Berkeley, working with NV centers in diamond</em>
+![My new lab at UC Berkeley](/assets/IMG_3739.jpg)
+<em>My new lab setup at UC Berkeley, working with NV centers in diamond</em>
