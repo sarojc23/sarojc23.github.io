@@ -31,7 +31,7 @@ Inspired by optical tweezer array techniques from the neutral atom community, we
 
 ---
 
-### Two-dimensional(2D) Quantum Materials
+### Two-dimensional (2D) Quantum Materials
 
 In my PhD work, I studied the **electronic and optical properties of two-dimensional (2D) materials**, such as monolayers of transition metal dichalcogenides (e.g., WS₂, MoSe₂) and their heterostructures. These low-dimensional systems exhibit unique behaviors due to **quantum confinement, enhanced environmental sensitivity**, and **strong many-body effects**.
 
